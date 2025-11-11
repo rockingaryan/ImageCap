@@ -45,8 +45,8 @@ python app.py
 ```
 Visit: http://127.0.0.1:5000/
 
-## 🧾 Training the Model (Google Colab)
-1. Open Image_Caption_Training.ipynb in Google Colab
+## 🧾 Training the Model 
+1. Open Image_Caption_Generator
 2. Upload Flickr8k dataset
 3. Train CNN+LSTM model
 4. Save model (`image_caption_model.h5`) and tokenizer (`tokenizer.pkl`)
