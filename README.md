@@ -68,3 +68,11 @@ Visit: http://127.0.0.1:5000/
 - Use Transformer models (ViT + GPT)
 - Add voice caption narration
 - Multi-language caption generation
+
+📜 Authors
+
+Pratigya Tripathi
+202210101150044
+
+Aryan Srivastava
+202210101150053
