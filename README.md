@@ -74,5 +74,8 @@ Visit: http://127.0.0.1:5000/
 Pratigya Tripathi
 202210101150044
 
+Aayush Baranawal
+202210101150056
+
 Aryan Srivastava
 202210101150053
